@@ -1,1 +1,1 @@
-Debaditya
+This is the code I have written so far for simulating the results as seen in Prof. Nitin Gupta's Paper. Its its current state it can generate the a PRED and Corr Sterotypy matrix.
