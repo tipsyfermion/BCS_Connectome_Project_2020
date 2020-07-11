@@ -37,3 +37,5 @@ This project that we are attempting will also have a rich educative and social i
 
 ## Resources
 * [Work Report](https://docs.google.com/spreadsheets/d/1LxaGLO2q_xohDhBhapvr1VeKXu5LyoTtZhdbx-raFA8/edit#gid=0)
+* [Paper](https://www.nature.com/articles/s41467-020-14836-6)
+* [Gramm Plotting Package](https://in.mathworks.com/matlabcentral/fileexchange/54465-gramm-complete-data-visualization-toolbox-ggplot2-r-like)
