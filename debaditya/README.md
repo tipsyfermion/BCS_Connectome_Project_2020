@@ -24,6 +24,15 @@ This is the code I have written so far for simulating the results as seen in Pro
 
 * **get_PRED_sterotypy.m:** This *function* takes in the spiking data as a parameter and outputs the PRED values between pairs of individuals for all possible combinations of the odor.
 
+* **plot_correlation_img.m:** This *function* plots the correlation pcolour map for a given layer response for a pair of individuals.
+
+* **plot_sterotypy_scatter.m:** This *function* plots the scatter plot comparing the PRED sterotypy to the correlation sterotypy.
+
+* **plot_sterotypy_violin.m:** This *function* plots the violin plot for the PRED sterotypy and the correlation sterotypy.
+
 * **run_simulation.m:** This *function* takes in simulation parameters, generates PN responses to a specific odor seed, generates the connection matrices (masks) for each layer, and returns the masks and the spiking data for each layer.
 
 * **sim_script.m:** This *script* contains the simulation parameters and calls in succession the *run_simulation.m* with appropriate seeds to produce the spiking data. The data is compiled into matrices and saved in a matlab file.
+
+
+**NOTE!:** These functions and scripts are not robust. They will fail if they are called improperly or are given faulty inputs / syntax. I will make them robust later.
