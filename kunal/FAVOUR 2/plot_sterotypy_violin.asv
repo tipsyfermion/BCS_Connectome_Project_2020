@@ -1,0 +1,19 @@
+function plot_sterotypy_violin(corr,PRED)
+
+    corr = corr(:);
+    PRED = PRED(:);
+    
+    label_cells = cell(length(PRED) + length(corr),1);
+    
+    [number,~]=size(label_cells);
+    label_cells(1:length(corr))='Correlation';
+    label_cells(1+length(corr):number)='Pred';
+    
+    data = [corr;PRED];
+  
+    g = gramm('x',label_cells,'y',data);
+    
+    g.stat_violin('normalization','width','width',0.1);
+    g.draw();
+
+end
