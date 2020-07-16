@@ -21,18 +21,36 @@ This Summer Project is carried out under the Brain Cogntive Society, IIT Kanpur 
 * Replicate models in chosen paper.
 * Create own models based on data.
 
+## Methodology
+
+* **Literature Reviews:** Understanding the concept of the connectome
+* **Two layer ANNs:** Understanding models of networks
+* **Presentation:** The Insect Visual System
+* **Presentation:** The Human Auditory System
+* **Flow Chart:** Neural Maps and Wiring Diagrams
+* **Course:** Fundamentals of Neuroimaging
+* **Course:** Academic Information Search
+* **Presentation:** The Drosophila Olfactory System
+* **Course:** Learning basics of MATLAB
+* **Coding:** Running simulation of Drosophila Olfactory System
+
+
 ## Timeline
-
-* Literature Review and Two Layer ANN
-* The Insect Visual System
-* The Human Auditory System
-* Neural Maps and Wiring Diagrams
-* Fundamentals of Neuroimaging
-* Academic Information Search
-* The Olfactory System in Drosophila
-* MATLAB Basics
-* Simulating Results from [Multiple network properties overcome random connectivity to enable stereotypic sensory responses](https://www.nature.com/articles/s41467-020-14836-6)
-
+| Sr. No. 	| Start Date 	| End Date   	| Work                                    	              |
+|---------	|------------	|------------	|-------------------------------------------------------- |
+|       1 	| 24-04-2020 	| 28-04-2020 	| Literature Review and Two Layer ANN     	              |
+|       2 	| 01-05-2020 	| 05-05-2020 	| The Insect Visual System                	              |
+|       3 	| 01-05-2020 	| 05-05-2020 	| The Human Auditory System                             	|
+|       4 	| 10-05-2020 	| 16-05-2020 	| Neural Maps and Wiring Diagrams                       	|
+|       5 	| 02-05-2020 	| 06-05-2020 	| Fundamentals of Neuroimaging [Coursera]               	|
+|       6 	| 05-05-2020 	| 09-05-2020 	| Academic Information Search [Coursera]                	|
+|       7 	| 12-06-2020 	| 15-06-2020 	| Contacting Profs                                       	|
+|       8 	| 18-06-2020 	| -          	| Reading Sir's Paper                                   	|
+|       9 	| 19-06-2020 	| 19-06-2020 	| The Olfactory System in Drosophila                    	|
+|      10 	| 25-06-2020 	| 30-06-2020 	| Learning MATLAB                         	              |
+|      11 	| 30-06-2020 	| 15-07-2020 	| Running simulation of Drosophila Olfactory System      	|
+|      12 	| 10-07-2020 	| -          	| Setting up GitHub Repository            	              |
+|      13 	| 14-07-2020 	| 17-07-2020 	| Preparing Project Poster                	              |
 ## Impact
 
 On a expansive and huge scale, developing a human connectome will be the next big thing in the medical industry, diagnosing various diseases, behavioural and mental and in the (data) analysis of the plethora of data our brains collect every waking and sleeping second - a complete new way to look at neuroscience. 
