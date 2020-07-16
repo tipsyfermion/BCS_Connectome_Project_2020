@@ -1,4 +1,4 @@
-# BCS_Connectome_Project_2020
+# The Connectome Project - Brain Cognitive Society, April 2020
 
 This Summer Project is carried out under the Brain Cogntive Society, IIT Kanpur during April 2020 - July 2020.
 
@@ -21,6 +21,18 @@ This Summer Project is carried out under the Brain Cogntive Society, IIT Kanpur 
 * Replicate models in chosen paper.
 * Create own models based on data.
 
+## Timeline
+
+* Literature Review and Two Layer ANN
+* The Insect Visual System
+* The Human Auditory System
+* Neural Maps and Wiring Diagrams
+* Fundamentals of Neuroimaging
+* Academic Information Search
+* The Olfactory System in Drosophila
+* MATLAB Basics
+* Simulating Results from [Multiple network properties overcome random connectivity to enable stereotypic sensory responses](https://www.nature.com/articles/s41467-020-14836-6)
+
 ## Impact
 
 On a expansive and huge scale, developing a human connectome will be the next big thing in the medical industry, diagnosing various diseases, behavioural and mental and in the (data) analysis of the plethora of data our brains collect every waking and sleeping second - a complete new way to look at neuroscience. 
@@ -37,5 +49,7 @@ This project that we are attempting will also have a rich educative and social i
 
 ## Resources
 * [Work Report](https://docs.google.com/spreadsheets/d/1LxaGLO2q_xohDhBhapvr1VeKXu5LyoTtZhdbx-raFA8/edit#gid=0)
-* [Paper](https://www.nature.com/articles/s41467-020-14836-6)
 * [Gramm Plotting Package](https://in.mathworks.com/matlabcentral/fileexchange/54465-gramm-complete-data-visualization-toolbox-ggplot2-r-like)
+* [Multiple network properties overcome random connectivity to enable stereotypic sensory responses](https://www.nature.com/articles/s41467-020-14836-6)
+* [The Structural Connectome of the Human Brain in Agenesis of the Corpus Callosum](https://pubmed.ncbi.nlm.nih.gov/23268782/)
+* 
