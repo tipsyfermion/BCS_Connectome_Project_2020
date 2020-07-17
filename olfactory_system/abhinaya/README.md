@@ -14,8 +14,7 @@ Each network simulation was performed 100 times with different initializations o
 
 ## Workflow with the DriverLiveScript
 
-*Flow 1*
-**Generate the PN, KC and MBON responses for both the individuals for 100 odors and run the whole simulation 100 times.**
+* **Generate the PN, KC and MBON responses for both the individuals for 100 odors and run the whole simulation 100 times.**
 
 1. function [PN_KC_matrix] = pn_kc_matrix(no_of_PN,no_of_KC,seed)
 2. function [KC_MBON_matrix] = kc_mbon_matrix(no_of_KC)
@@ -23,27 +22,23 @@ Each network simulation was performed 100 times with different initializations o
 4. function [KC_spikes] = kc_spikes(PN_KC_matrix,PN_spikes)
 5. function [MBON_spikes] = mbon_spikes(KC_MBON_matrix,KC_spikes)
 
-*Flow 2*
-**Calculate the correlation and PRED stereotypy for the MBON responses - Fig. 2b** <br/>
+* **Calculate the correlation and PRED stereotypy for the MBON responses - Fig. 2b** <br/>
 *Also plot Fig 2c. Correlation vs PRED for MBON response*
 
 6. function [correlation] = correlation(MBON_spikesA,MBON_spikesB)
 7. function [stereotypy] = pairstereotypy(response)
 8. function [PREDstereotypy] = stereotypy(MBON_spikesA, MBON_spikesB)
 
-*Flow 3*
-**Calculate the correlation and PRED stereotypy for INDIVIDUAL KC responses - Fig. 2d (top)**
+* **Calculate the correlation and PRED stereotypy for INDIVIDUAL KC responses - Fig. 2d (top)**
 
 9. function [KC_correlation] = kc_correlation(kca,kcb)
 10. function [KC_indPREDstereotypy] = kc_indpred(kca,kcb)
 
-*Flow 4*
-**Calculate the correlation and PRED stereotypy for TOTAL KC responses - Fig. 2d (bottom)**
+* **Calculate the correlation and PRED stereotypy for TOTAL KC responses - Fig. 2d (bottom)**
 
 11. function [KC_totcor] = kc_totcor(kca,kcb)
 12. function [KCtotalPREDstereotypy] = kc_totpred(kca,kcb)
 
-*Flow 5* 
-**Plot Fig. 2 using gramm plotting package**
+* **Plot Fig. 2 using gramm plotting package**
 
 13. Rest of the DriverLiveScript
