@@ -70,7 +70,7 @@ This project that we are attempting will also have a rich educative and social i
 * [Gramm Plotting Package](https://in.mathworks.com/matlabcentral/fileexchange/54465-gramm-complete-data-visualization-toolbox-ggplot2-r-like)
 * [Multiple network properties overcome random connectivity to enable stereotypic sensory responses](https://www.nature.com/articles/s41467-020-14836-6)
 * [The Structural Connectome of the Human Brain in Agenesis of the Corpus Callosum](https://pubmed.ncbi.nlm.nih.gov/23268782/)
-* [Mid-Term Evaluation Presentation](https://docs.google.com/presentation/d/17blXLpJH8sbVpaOpVS3QvozIyz4qlTdl1BGAbhPIg7M/edit?usp=sharing)
+* [Mid-Term Evaluation Presentation](https://docs.google.com/presentation/d/17blXLpJH8sbVpaOpVS3QvozIyz4qlTdl1BGAbhPIg7M/edit?usp=sharing) <br/>
 **Online Courses**
 * [Fundamental Neuroscience of Neuroimaging, John Hopkins University](https://www.coursera.org/learn/neuroscience-neuroimaging/home/welcome)
 * [Academic Information Seeking](https://www.coursera.org/learn/academicinfoseek)
