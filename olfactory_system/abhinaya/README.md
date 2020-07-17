@@ -43,4 +43,4 @@ Each network simulation was performed 100 times with different initializations o
 
 13. Rest of the DriverLiveScript
 
-[The results obtained are summarised here](https://docs.google.com/document/d/1WbwENa35t6MtyO3GmkG5NoFRpyZtUH1sqi_HH09mQ0k/edit?usp=sharing)
+[The results obtained are summarised here.](https://docs.google.com/document/d/1WbwENa35t6MtyO3GmkG5NoFRpyZtUH1sqi_HH09mQ0k/edit?usp=sharing)
