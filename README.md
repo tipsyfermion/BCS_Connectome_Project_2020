@@ -43,7 +43,7 @@ This Summer Project is carried out under the Brain Cogntive Society, IIT Kanpur 
 |       3 	| 01-05-2020 	| 05-05-2020 	| The Human Auditory System                             	|
 |       4 	| 10-05-2020 	| 16-05-2020 	| Neural Maps and Wiring Diagrams                       	|
 |       5 	| 02-05-2020 	| 06-05-2020 	| Fundamentals of Neuroimaging [Coursera]               	|
-|       6 	| 05-05-2020 	| 09-05-2020 	| Academic Information Search [Coursera]                	|
+|       6 	| 05-05-2020 	| 09-05-2020 	| Academic Information Seeking [Coursera]                	|
 |       7 	| 12-06-2020 	| 15-06-2020 	| Contacting Profs                                       	|
 |       8 	| 18-06-2020 	| -          	| Reading Sir's Paper                                   	|
 |       9 	| 19-06-2020 	| 19-06-2020 	| The Olfactory System in Drosophila                    	|
@@ -71,3 +71,7 @@ This project that we are attempting will also have a rich educative and social i
 * [Multiple network properties overcome random connectivity to enable stereotypic sensory responses](https://www.nature.com/articles/s41467-020-14836-6)
 * [The Structural Connectome of the Human Brain in Agenesis of the Corpus Callosum](https://pubmed.ncbi.nlm.nih.gov/23268782/)
 * [Mid-Term Evaluation Presentation](https://docs.google.com/presentation/d/17blXLpJH8sbVpaOpVS3QvozIyz4qlTdl1BGAbhPIg7M/edit?usp=sharing)
+**Online Courses**
+* [Fundamental Neuroscience of Neuroimaging, John Hopkins University](https://www.coursera.org/learn/neuroscience-neuroimaging/home/welcome)
+* [Academic Information Seeking](https://www.coursera.org/learn/academicinfoseek)
+* [Getting started with MATLAB](https://matlabacademy.mathworks.com/R2020a/portal.html?course=gettingstarted)
