@@ -53,7 +53,7 @@ This Summer Project is carried out under the Brain Cognitive Society, IIT Kanpur
 |      13 	| 14-07-2020 	| 17-07-2020 	| Preparing Project Poster                	              |
 ## Impact
 
-On a expansive and huge scale, developing a human connectome will be the next big thing in the medical industry, diagnosing various diseases, behavioural and mental and in the (data) analysis of the plethora of data our brains collect every waking and sleeping second - a complete new way to look at neuroscience. 
+On a expansive and huge scale, developing a functional human connectome will be the next big thing in the medical industry, diagnosing various diseases, behavioural and mental and in the (data) analysis of the plethora of data our brains collect every waking and sleeping second - a complete new way to look at neuroscience. It would also help us predict certain aspects of human behaviour as well as understand the pathology behind certain psychological disorders
 
 This project that we are attempting will also have a rich educative and social impact, plainly as it encourages more people (ourselves primarily) who are looking to understand brains, how we use them and the fascination associated with them. 
 
