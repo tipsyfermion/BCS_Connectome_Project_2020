@@ -3,13 +3,13 @@
 This is the code I have written so far for simulating the results as seen in Prof. Nitin Gupta's Paper.
 
 
-## proto_nerons
+## proto_neurons
 
 * **network.m:** This is a simple implementation of a neuron network with multiple layers
 
-* **neuron.m:** This is a simple neuron class generated on based on the principles found in the course [CS231n Covolutional Neural Networks for Visual Recognition](https://cs231n.github.io/neural-networks-1/)
+* **neuron.m:** This is a simple neuron class generated on based on the principles found in the course [CS231n Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/neural-networks-1/)
 
-* **neuronLayer.m:** This is a simple neuron layer class generated on based on the principles found in the course [CS231n Covolutional Neural Networks for Visual Recognition](https://cs231n.github.io/neural-networks-1/)
+* **neuronLayer.m:** This is a simple neuron layer class generated on based on the principles found in the course [CS231n Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/neural-networks-1/)
 
 
 ## fig2
