@@ -1,6 +1,6 @@
 # The Connectome Project - Brain Cognitive Society, April 2020
 
-This Summer Project is carried out under the Brain Cogntive Society, IIT Kanpur during April 2020 - July 2020.
+This Summer Project is carried out under the Brain Cognitive Society, IIT Kanpur during April 2020 - July 2020.
 
 ## Objective
 
@@ -13,8 +13,8 @@ This Summer Project is carried out under the Brain Cogntive Society, IIT Kanpur 
 
 ## Ideation
 
-* Learn basics of Neuroscience.
-* Learn basics of Non-invasive Imaging methods like fMRI, EEG, etc.
+* Learn the basics of Neuroscience.
+* Learn the basics of Non-invasive Imaging methods like fMRI, EEG, etc.
 * Learn how to navigate through academic literature and find specific works
 * Read papers and find paper to replicate.
 * Learn the concepts required to create Neural Models.
